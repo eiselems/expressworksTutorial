@@ -1,0 +1,24 @@
+{
+  "name": "expressworks-tutorial",
+  "version": "1.0.0",
+  "description": "Git repository for working with expressworks (https://github.com/azat-co/expressworks)",
+  "main": "1_helloWorld.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiselems/expressworksTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eiselems/expressworksTutorial/issues"
+  },
+  "homepage": "https://github.com/eiselems/expressworksTutorial#readme"
+}
